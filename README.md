@@ -18,7 +18,7 @@ Before cloning the repository, ensure you have the following installed:
 ### Installation
 
 1. Clone the Repository and run the application
-   - git clone git@github.com:PaShiwa/React-ToDoApp.git
+   - git clone https://github.com/PaShiwa/React-ToDoApp.git
    - cd React-ToDoApp
    - npm install
    - npm run dev
