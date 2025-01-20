@@ -1,0 +1,23 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  font-size: 2em;
+  font-weight: bold;
+  background-color: #f7ca18;
+  height: 70px;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.item {
+  margin: 50px;
+  background-color: white;
+  border-radius: 6px;
+  padding: 4px 12px;
+  text-align: center;
+}

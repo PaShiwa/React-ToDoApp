@@ -1,4 +1,4 @@
-import styles from "./todoitem.module.css";
+import styles from "../css/todoitem.module.css";
 export default function ({ item, todos, setTodos }) {
   function handleDelete(item) {
     setTodos(todos.filter((todo) => todo !== item));

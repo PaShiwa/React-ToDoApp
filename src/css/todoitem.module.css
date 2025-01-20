@@ -8,6 +8,7 @@
 .itemName {
   font-weight: bolder;
   padding: 10px;
+  font-size: x-large;
 }
 
 .line {
@@ -20,7 +21,7 @@
   border-radius: 6px;
   background-color: #f7ca18;
   color: white;
-  margin-top: -11px;
+  margin-top: -6px;
   cursor: pointer;
 }
 
