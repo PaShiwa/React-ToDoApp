@@ -1,4 +1,4 @@
-# React Todo App
+# Todo App
 
 A simple Todo App built using **React** and **Vite**. This application allows users to:
 - Add new todos
